@@ -1,8 +1,6 @@
 <h1 align="left">Hello World!🌍</h1>
 
 <br/>
-<br/>
-
 - 🔭 I’m currently working on **Android projects**
 
 - 🌱 I’m currently learning **Android development | Cognitive interaction | Machine learning**
