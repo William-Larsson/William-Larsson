@@ -2,11 +2,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Android projects**
+🔭 I’m currently working on **Android projects**
 
-- 🌱 I’m currently learning **Android development | Cognitive interaction | Machine learning**
+🌱 I’m currently learning **Android development | Cognitive interaction | Machine learning**
 
-- 🤔 I’m interested to learn more about **open source and how to get involved in it**
+🤔 I’m interested to learn more about **open source and how to get involved in it**
 
 <br/>
 
