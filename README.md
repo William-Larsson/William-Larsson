@@ -1,11 +1,13 @@
 <h1 align="left">Hello World! 🌍</h1>
 
 
+
 - 🔭 I’m currently working on **Android projects**
 
 - 🌱 I’m currently learning **Android development | Cognitive interaction | Machine learning**
 
 - 🤔 I’m interested to learn more about **open source and how to get involved in it**
+
 
 
 <h4>Tools and frameworks I've used in the past</h4>
