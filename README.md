@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm William</h1>
-<h3 align="center">A passionate and curious software developer student from northern Sweden.</h3>
+<h3 align="center">A general tech geek & software developer student from the north of Sweden.</h3>
 
-- 🔭 I’m currently working on **various school projects.**
+- 🔭 I’m currently working on **Android assignments for school**
 
-- 🌱 I’m currently learning **Native Android development & cognitive interaction theories**
+- 🌱 I’m currently learning **Native Android & cognitive interaction theories**
 
-- 👯 I’m looking to collaborate on **open source, it's somethings I would like to learn more about**
+- 🤔 I’m interested to learn more about **open source and how to get involved in it**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
