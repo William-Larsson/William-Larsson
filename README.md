@@ -2,7 +2,7 @@
 
 <br/>
 
-🔭 I’m currently working on **a web app to combat COVID-19 at Umeå"University**
+🔭 I’m currently working on **a web app to combat COVID-19 at Umeå University**
 
 🌱 I’m currently learning **Android development | Haskell | Machine learning**
 
