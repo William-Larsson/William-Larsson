@@ -2,9 +2,9 @@
 
 <br/>
 
-🔭 I’m currently working on **small Android projects for fun**
+🔭 I’m currently working on **a web app to combat COVID-19 at Umeå"University**
 
-🌱 I’m currently learning **Android development | Cognitive interaction | Machine learning**
+🌱 I’m currently learning **Android development | Haskell | Machine learning**
 
 🤔 I’m interested to learn more about **open source and how to get involved with it**
 
